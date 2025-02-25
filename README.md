@@ -1,5 +1,4 @@
 # Mental-Health-Support-Chatbot
-# AI-Powered Mental Health Chatbot
 
 ## Overview
 This project is an AI-powered mental health chatbot designed to provide users with emotional support and mental health resources. Built using Llama 3, LangChain, and Streamlit, the chatbot offers a user-friendly interface for engaging in meaningful conversations.
